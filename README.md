@@ -51,3 +51,4 @@ The project is configured to build:
 ![image](https://github.com/rain2813/zmk-cygnus-oled/blob/main/img/3.jpg)
 # sofle-central-display
 # sofle-central-display
+# sofle-central-display
